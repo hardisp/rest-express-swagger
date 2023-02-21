@@ -1,0 +1,13 @@
+{
+  "name": "rest-express-swagger",
+  "version": "0.0.1",
+  "description": "Just code to remind",
+  "main": "index.js",
+  "author": "jiksdi12@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.1"
+  }
+}
